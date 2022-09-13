@@ -1,3 +1,2 @@
 # Data-Science-Projects
-It has all the projects for data science 
-
+-- This Contains a List projects that have been done 
