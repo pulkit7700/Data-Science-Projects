@@ -131,6 +131,13 @@ This Repository Consists of all the Machine Learning Projects, covring over diff
     2. recurrence-events: 85 instances
 ## Car Value Prediction 
 
+| Data Set Characteristics:    | Multivariate   | Number of Instances:  | 1728 | Area:               | N/A        |
+|------------------------------|----------------|-----------------------|------|---------------------|------------|
+| Attribute Characteristics:   | Categorical    | Number of Attributes: | 6    | Date Donated        | 1997-06-01 |
+| Associated Tasks:            | Classification | Missing Values?       | No   | Number of Web Hits: | 1618076    |
+| Highest Percentage Achieved: | N/A            |                       |      |                     |            |
+
+
 1. Title: Car Evaluation Database
 
 2. Sources:
