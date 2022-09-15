@@ -6,6 +6,12 @@ This Repository Consists of all the Machine Learning Projects, covring over diff
 
 ## Balanced Scale Dataset
 
+| Data Set Characteristics:    | Multivariate   | Number of Instances:  | 625 | Area:               | Social     |
+|------------------------------|----------------|-----------------------|-----|---------------------|------------|
+| Attribute Characteristics:   | Categorical    | Number of Attributes: | 4   | Date Donated        | 1994-04-22 |
+| Associated Tasks:            | Classification | Missing Values?       | No  | Number of Web Hits: | 318570     |
+| Highest Percentage Achieved: | N/A            |
+
  (a) Source: Generated to model psychological experiments reported
 		by Siegler, R. S. (1976).  Three Aspects of Cognitive
 		Development.  Cognitive Psychology, 8, 481-520.
