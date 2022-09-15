@@ -68,6 +68,13 @@ This Repository Consists of all the Machine Learning Projects, covring over diff
    3. 46.08 percent are R
 ## Breast Cancer Classification Problem  
 
+| Data Set Characteristics:    | Multivariate   | Number of Instances:  | 286 | Area:               | Life       |
+|------------------------------|----------------|-----------------------|-----|---------------------|------------|
+| Attribute Characteristics:   | Categorical    | Number of Attributes: | 9   | Date Donated        | 1988-07-11 |
+| Associated Tasks:            | Classification | Missing Values?       | Yes | Number of Web Hits: | 651625     |
+| Highest Percentage Achieved: | 78%            |
+
+
 1. Title: Breast cancer data (Michalski has used this)
 
 2. Sources: 
